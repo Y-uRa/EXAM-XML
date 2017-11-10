@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="XSL/XSL.xsl"?>
+<?xml-stylesheet type="text/css" href="CSS/property.css"?>
+<propertys>
+  <house>
+    <adress>Baker Street 221B</adress>
+    <date>1900</date>
+    <floors>2</floors>
+    <price>900 000$</price>
+  </house>
+
+  <house>
+    <adress>visoki</adress>
+    <date>1925</date>
+    <floors>2</floors>
+    <price>75 000$</price>
+  </house>
+
+  <house>
+    <adress>Litle Fof</adress>
+    <date>2003</date>
+    <floors>1</floors>
+    <price>10 000$</price>
+  </house>
+
+  <house>
+    <adress>Gagarina 30</adress>
+    <date>2000</date>
+    <floors>2</floors>
+    <price>90 000$</price>
+  </house>
+
+  <house>
+    <adress>Long Beach</adress>
+    <date>2010</date>
+    <floors>2</floors>
+    <price>2 0000 000$</price>
+  </house>
+
+  <apartment>
+    <adress>Gagarina 24</adress>
+    <number>45</number>
+    <date>1950</date>
+    <price>45 000$</price>
+  </apartment>
+
+</propertys>
